@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-   <ImageView
+   <com.jqt3of5.imageviewscale.MyZoomableImageView
       android:src="@drawable/kira"
        android:id="@+id/image_view"
        android:layout_width="match_parent"
